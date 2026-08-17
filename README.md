@@ -10,5 +10,3 @@ This repository marks my first GitHub push.
 This repository will be updated as I continue learning and building new projects.
 
 ---
-
-Thank you for visiting! 🚀
